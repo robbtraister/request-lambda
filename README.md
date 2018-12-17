@@ -1,6 +1,6 @@
 # request-lambda
 
-This package attempts to replicate the API for request, but for AWS lambda functions built with serverless-http.
+This package attempts to replicate the API for [request](https://www.npmjs.com/package/request), but for AWS lambda functions built with [serverless-http](https://www.npmjs.com/package/serverless-http).
 
 ## Usage
 
